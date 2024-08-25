@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rhetthenry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’am a new python dev
 - 💞️ I’m looking to collaborate on any thing that inclouds minecraft
 - 😄 Pronouns: he him
+- 🐍 I love python <3
 
   contact me at my email
 
