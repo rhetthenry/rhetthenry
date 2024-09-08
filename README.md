@@ -7,15 +7,6 @@
   contact me at my email
 
   rhwreptiles@gmail.com
-  '
-  '
-  '
-  '
-  '
-  Testing
-  <iframe title="Animal discovery" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);height:315px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=fttwp-1113c3e-pbblog-playlist&share=1&download=1&rtl=0&fonts=Arial&skin=8bbb4e&font-color=auto&logo_link=episode_page&order=episodic&limit=10&filter=all&ss=a713390a017602015775e868a2cf26b0&btn-skin=8bbb4e&size=315" loading="lazy" allowfullscreen=""></iframe>
-
-<!---
-rhetthenry/rhetthenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ 
 --->
+![Untitled design (6)](https://github.com/user-attachments/assets/a19f8912-9a1b-40a3-a2b4-545b9464ff13)
