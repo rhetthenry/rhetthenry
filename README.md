@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhetthenry
 - 🌱 I’am a new python dev
-- 💞️ I’m looking to collaborate on any thing that inclouds minecraft
+- dev of a private future config
 - 😄 Pronouns: he him
 - 🐍 I love python <3
 
