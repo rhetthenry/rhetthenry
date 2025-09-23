@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rhetthenry
-- 🌱 I’am a new python dev
+- 🌱 I'm a new python dev
 - dev of a private future config
 - 😄 Pronouns: he him
 - 🐍 I love python <3
