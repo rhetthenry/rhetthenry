@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rhetthenry
 - 🌱 I'm a new python dev
-- dev of a private future config
-- 😄 Pronouns: he him
+- 🥇 dev of a private future config
+- 😄 Pronouns: She/They
 - 🐍 I love python <3
 
  
